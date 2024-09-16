@@ -1,7 +1,8 @@
 # 09.09 Практика 1 Дергачев А.С. ЭФМО-02-24
 ## Интернет-магазин компьютерных игр
 ### ERD
-![ERD_pr1](https://github.com/user-attachments/assets/a776ae31-e4b9-49bf-89e3-e1c4e307849c)
+![ERD_pr1](https://github.com/user-attachments/assets/36914202-8dfd-4e82-8d00-06f4ccb29ade)
+
 
 ### Описание сущностей
 1) User_account - данные о пользователе
