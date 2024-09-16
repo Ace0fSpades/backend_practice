@@ -1,7 +1,8 @@
 # 09.09 Практика 1 Дергачев А.С. ЭФМО-02-24
 ## Интернет-магазин компьютерных игр
 ### ERD
-![ERD_pr1](https://github.com/user-attachments/assets/36914202-8dfd-4e82-8d00-06f4ccb29ade)
+![ERD_pr1](https://github.com/user-attachments/assets/4f7b7e45-83cb-4822-8f9a-b05544155cc2)
+
 
 
 ### Описание сущностей
